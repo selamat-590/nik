@@ -1,0 +1,7 @@
+$ pkg update
+$ pkg upgrade
+$ pkg install git
+$ install python2
+$ git clone https://github.com/selamat-590/nik
+$ cd nik-kk
+$ python2 nik.py
